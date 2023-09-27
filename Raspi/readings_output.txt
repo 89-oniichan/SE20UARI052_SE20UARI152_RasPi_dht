@@ -1,0 +1,80 @@
+DHT11 Sensor Data:
+Temperature: 24.80°C / 76.64°F
+Humidity: 40.60%
+
+DHT22 Sensor Data:
+Temperature: 22.20°C / 71.96°F
+Humidity: 46.30%
+
+DHT11 Sensor Data:
+Temperature: 25.20°C / 77.36°F
+Humidity: 39.80%
+
+DHT22 Sensor Data:
+Temperature: 22.80°C / 73.04°F
+Humidity: 44.70%
+
+DHT11 Sensor Data:
+Temperature: 23.90°C / 75.02°F
+Humidity: 41.90%
+
+DHT22 Sensor Data:
+Temperature: 21.10°C / 69.98°F
+Humidity: 47.80%
+
+DHT11 Sensor Data:
+Temperature: 22.40°C / 72.32°F
+Humidity: 45.10%
+
+DHT22 Sensor Data:
+Temperature: 24.50°C / 76.10°F
+Humidity: 39.20%
+
+DHT11 Sensor Data:
+Temperature: 24.00°C / 75.20°F
+Humidity: 42.50%
+
+DHT22 Sensor Data:
+Temperature: 23.00°C / 73.40°F
+Humidity: 44.00%
+
+DHT11 Sensor Data:
+Temperature: 21.30°C / 70.34°F
+Humidity: 47.70%
+
+DHT22 Sensor Data:
+Temperature: 22.90°C / 73.22°F
+Humidity: 45.05%
+
+DHT11 Sensor Data:
+Temperature: 23.10°C / 73.58°F
+Humidity: 44.40%
+
+DHT22 Sensor Data:
+Temperature: 20.70°C / 69.26°F
+Humidity: 48.40%
+
+DHT11 Sensor Data:
+Temperature: 25.70°C / 78.26°F
+Humidity: 38.30%
+
+DHT22 Sensor Data:
+Temperature: 22.00°C / 71.60°F
+Humidity: 46.60%
+
+DHT11 Sensor Data:
+Temperature: 24.60°C / 76.28°F
+Humidity: 40.90%
+
+DHT22 Sensor Data:
+Temperature: 23.80°C / 74.84°F
+Humidity: 42.10%
+
+DHT11 Sensor Data:
+Temperature: 23.20°C / 73.76°F
+Humidity: 43.60%
+
+DHT22 Sensor Data:
+Temperature: 21.50°C / 70.70°F
+Humidity: 47.10%
+
