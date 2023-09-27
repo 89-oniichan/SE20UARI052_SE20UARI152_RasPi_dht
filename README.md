@@ -38,6 +38,9 @@ The DHT22, with its impressive accuracy and extended measurement range, is ideal
 
 To acquire data from the DHT11 and DHT22 sensors using a Raspberry Pi, Python code has been developed using the Adafruit CircuitPython DHT library. The code reads temperature and humidity data from both sensors and generates reports based on the collected data.
 
+[Code](https://github.com/89-oniichan/SE20UARI052_SE20UARI152_RasPi_dht/blob/main/Raspi/dhtsensor.py)
+
+
 ### Conclusion
 
 The collected data from both DHT11 and DHT22 sensors reveals valuable insights into the environmental conditions being monitored. Over the course of the observations, several noteworthy trends can be observed:
